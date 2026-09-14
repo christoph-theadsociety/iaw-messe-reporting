@@ -1,5 +1,37 @@
 [
   {
+    "month": "2025-07",
+    "year": 2025,
+    "month_num": 7,
+    "date_start": "2025-07-01",
+    "date_stop": "2025-07-31",
+    "spend": 5192.5,
+    "link_clicks": 50006,
+    "cpc": 0.104,
+    "ctr": 1.747,
+    "impressions": 2862131,
+    "cpm": 1.81,
+    "primary_count": 0,
+    "primary_cost": 0.0,
+    "conversion_rate": 0.0
+  },
+  {
+    "month": "2025-08",
+    "year": 2025,
+    "month_num": 8,
+    "date_start": "2025-08-01",
+    "date_stop": "2025-08-31",
+    "spend": 6129.29,
+    "link_clicks": 43357,
+    "cpc": 0.141,
+    "ctr": 2.19,
+    "impressions": 1979926,
+    "cpm": 3.1,
+    "primary_count": 6,
+    "primary_cost": 1021.55,
+    "conversion_rate": 0.014
+  },
+  {
     "month": "2025-09",
     "year": 2025,
     "month_num": 9,
@@ -11,9 +43,9 @@
     "ctr": 1.703,
     "impressions": 148876,
     "cpm": 5.35,
-    "primary_count": 0,
-    "primary_cost": 0.0,
-    "conversion_rate": 0.0
+    "primary_count": 7,
+    "primary_cost": 113.76,
+    "conversion_rate": 0.276
   },
   {
     "month": "2026-02",
@@ -27,9 +59,9 @@
     "ctr": 1.197,
     "impressions": 167038,
     "cpm": 8.18,
-    "primary_count": 86,
-    "primary_cost": 15.88,
-    "conversion_rate": 4.302
+    "primary_count": 59,
+    "primary_cost": 23.15,
+    "conversion_rate": 2.951
   },
   {
     "month": "2026-03",
@@ -43,9 +75,9 @@
     "ctr": 0.937,
     "impressions": 427553,
     "cpm": 8.53,
-    "primary_count": 303,
-    "primary_cost": 12.04,
-    "conversion_rate": 7.56
+    "primary_count": 279,
+    "primary_cost": 13.07,
+    "conversion_rate": 6.961
   },
   {
     "month": "2026-07",
@@ -59,9 +91,9 @@
     "ctr": 1.286,
     "impressions": 8010,
     "cpm": 7.96,
-    "primary_count": 2,
-    "primary_cost": 31.88,
-    "conversion_rate": 1.942
+    "primary_count": 1,
+    "primary_cost": 63.75,
+    "conversion_rate": 0.971
   },
   {
     "month": "2026-08",
@@ -75,8 +107,8 @@
     "ctr": 1.093,
     "impressions": 366476,
     "cpm": 8.94,
-    "primary_count": 165,
-    "primary_cost": 19.86,
-    "conversion_rate": 4.121
+    "primary_count": 164,
+    "primary_cost": 19.98,
+    "conversion_rate": 4.096
   }
 ]
