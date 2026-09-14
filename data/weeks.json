@@ -193,5 +193,20 @@
     "primary_count": 98,
     "primary_cost": 14.91,
     "conversion_rate": 5.642
+  },
+  {
+    "week": "KW37",
+    "iso_year": 2026,
+    "date_start": "2026-09-07",
+    "date_stop": "2026-09-13",
+    "spend": 2704.01,
+    "link_clicks": 2381,
+    "cpc": 1.136,
+    "ctr": 0.864,
+    "impressions": 275738,
+    "cpm": 9.81,
+    "primary_count": 123,
+    "primary_cost": 21.98,
+    "conversion_rate": 5.166
   }
 ]
