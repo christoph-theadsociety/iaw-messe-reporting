@@ -10,9 +10,9 @@
     "ctr": 1.351,
     "impressions": 38499,
     "cpm": 7.34,
-    "primary_count": 16,
-    "primary_cost": 17.67,
-    "conversion_rate": 3.077
+    "primary_count": 13,
+    "primary_cost": 21.75,
+    "conversion_rate": 2.5
   },
   {
     "week": "KW08",
@@ -25,9 +25,9 @@
     "ctr": 1.218,
     "impressions": 75540,
     "cpm": 8.3,
-    "primary_count": 43,
-    "primary_cost": 14.58,
-    "conversion_rate": 4.674
+    "primary_count": 28,
+    "primary_cost": 22.39,
+    "conversion_rate": 3.043
   },
   {
     "week": "KW09",
@@ -40,9 +40,9 @@
     "ctr": 1.048,
     "impressions": 61468,
     "cpm": 8.55,
-    "primary_count": 30,
-    "primary_cost": 17.52,
-    "conversion_rate": 4.658
+    "primary_count": 24,
+    "primary_cost": 21.9,
+    "conversion_rate": 3.727
   },
   {
     "week": "KW10",
@@ -55,9 +55,9 @@
     "ctr": 0.935,
     "impressions": 51994,
     "cpm": 8.1,
-    "primary_count": 29,
-    "primary_cost": 14.53,
-    "conversion_rate": 5.967
+    "primary_count": 26,
+    "primary_cost": 16.2,
+    "conversion_rate": 5.35
   },
   {
     "week": "KW11",
@@ -70,9 +70,9 @@
     "ctr": 0.996,
     "impressions": 79315,
     "cpm": 7.89,
-    "primary_count": 42,
-    "primary_cost": 14.9,
-    "conversion_rate": 5.316
+    "primary_count": 51,
+    "primary_cost": 12.27,
+    "conversion_rate": 6.456
   },
   {
     "week": "KW12",
@@ -85,9 +85,9 @@
     "ctr": 0.963,
     "impressions": 169077,
     "cpm": 9.08,
-    "primary_count": 77,
-    "primary_cost": 19.95,
-    "conversion_rate": 4.727
+    "primary_count": 55,
+    "primary_cost": 27.92,
+    "conversion_rate": 3.376
   },
   {
     "week": "KW13",
@@ -100,9 +100,9 @@
     "ctr": 0.858,
     "impressions": 118698,
     "cpm": 8.38,
-    "primary_count": 152,
-    "primary_cost": 6.54,
-    "conversion_rate": 14.931
+    "primary_count": 141,
+    "primary_cost": 7.05,
+    "conversion_rate": 13.851
   },
   {
     "week": "KW31",
@@ -115,9 +115,9 @@
     "ctr": 1.112,
     "impressions": 17179,
     "cpm": 7.85,
-    "primary_count": 7,
-    "primary_cost": 19.27,
-    "conversion_rate": 3.665
+    "primary_count": 1,
+    "primary_cost": 134.91,
+    "conversion_rate": 0.524
   },
   {
     "week": "KW32",
@@ -145,9 +145,9 @@
     "ctr": 0.799,
     "impressions": 63947,
     "cpm": 7.25,
-    "primary_count": 23,
-    "primary_cost": 20.15,
-    "conversion_rate": 4.501
+    "primary_count": 37,
+    "primary_cost": 12.53,
+    "conversion_rate": 7.241
   },
   {
     "week": "KW34",
@@ -160,9 +160,9 @@
     "ctr": 1.126,
     "impressions": 94565,
     "cpm": 8.73,
-    "primary_count": 40,
-    "primary_cost": 20.64,
-    "conversion_rate": 3.756
+    "primary_count": 37,
+    "primary_cost": 22.32,
+    "conversion_rate": 3.474
   },
   {
     "week": "KW35",
@@ -175,9 +175,9 @@
     "ctr": 1.204,
     "impressions": 134219,
     "cpm": 10.01,
-    "primary_count": 63,
-    "primary_cost": 21.33,
-    "conversion_rate": 3.899
+    "primary_count": 61,
+    "primary_cost": 22.03,
+    "conversion_rate": 3.775
   },
   {
     "week": "KW36",
@@ -190,9 +190,9 @@
     "ctr": 1.258,
     "impressions": 138096,
     "cpm": 10.58,
-    "primary_count": 98,
-    "primary_cost": 14.91,
-    "conversion_rate": 5.642
+    "primary_count": 79,
+    "primary_cost": 18.5,
+    "conversion_rate": 4.548
   },
   {
     "week": "KW37",
@@ -205,8 +205,8 @@
     "ctr": 0.864,
     "impressions": 275738,
     "cpm": 9.81,
-    "primary_count": 123,
-    "primary_cost": 21.98,
-    "conversion_rate": 5.166
+    "primary_count": 173,
+    "primary_cost": 15.63,
+    "conversion_rate": 7.266
   }
 ]
