@@ -91,9 +91,9 @@
     "ctr": 1.286,
     "impressions": 8010,
     "cpm": 7.96,
-    "primary_count": 1,
-    "primary_cost": 63.75,
-    "conversion_rate": 0.971
+    "primary_count": 2,
+    "primary_cost": 31.88,
+    "conversion_rate": 1.942
   },
   {
     "month": "2026-08",
@@ -107,8 +107,8 @@
     "ctr": 1.093,
     "impressions": 366476,
     "cpm": 8.94,
-    "primary_count": 164,
-    "primary_cost": 19.98,
-    "conversion_rate": 4.096
+    "primary_count": 165,
+    "primary_cost": 19.86,
+    "conversion_rate": 4.121
   }
 ]
