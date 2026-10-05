@@ -110,5 +110,21 @@
     "primary_count": 165,
     "primary_cost": 19.86,
     "conversion_rate": 4.121
+  },
+  {
+    "month": "2026-09",
+    "year": 2026,
+    "month_num": 9,
+    "date_start": "2026-09-01",
+    "date_stop": "2026-09-30",
+    "spend": 3907.15,
+    "link_clicks": 3839,
+    "cpc": 1.018,
+    "ctr": 0.982,
+    "impressions": 390976,
+    "cpm": 9.99,
+    "primary_count": 204,
+    "primary_cost": 19.15,
+    "conversion_rate": 5.314
   }
 ]
